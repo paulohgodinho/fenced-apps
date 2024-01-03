@@ -1,0 +1,9 @@
+blender kasmweb/blender:1.14.0
+chrome kasmweb/chrome:1.14.0
+doom kasmweb/doom:1.14.0
+filezilla kasmweb/filezilla:1.14.0
+firefox kasmweb/firefox:1.14.0
+gimp kasmweb/gimp:1.14.0
+postman kasmweb/postman:1.14.0
+tor kasmweb/tor-browser:1.14.0
+vscode kasmweb/vs-code:1.14.0
